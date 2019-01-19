@@ -1,0 +1,4 @@
+D:\AKKI_DEV\RND\CoreNLogText\CoreNLogText\obj\Debug\netcoreapp2.1\CoreNLogText.csprojAssemblyReference.cache
+D:\AKKI_DEV\RND\CoreNLogText\CoreNLogText\obj\Debug\netcoreapp2.1\CoreNLogText.csproj.CoreCompileInputs.cache
+D:\AKKI_DEV\RND\CoreNLogText\CoreNLogText\obj\Debug\netcoreapp2.1\CoreNLogText.AssemblyInfoInputs.cache
+D:\AKKI_DEV\RND\CoreNLogText\CoreNLogText\obj\Debug\netcoreapp2.1\CoreNLogText.AssemblyInfo.cs

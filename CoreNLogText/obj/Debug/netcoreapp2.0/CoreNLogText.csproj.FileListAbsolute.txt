@@ -1,0 +1,10 @@
+D:\AKKI_DEV\RND\CoreNLogText\CoreNLogText\obj\Debug\netcoreapp2.0\CoreNLogText.csproj.CoreCompileInputs.cache
+D:\AKKI_DEV\RND\CoreNLogText\CoreNLogText\obj\Debug\netcoreapp2.0\CoreNLogText.AssemblyInfoInputs.cache
+D:\AKKI_DEV\RND\CoreNLogText\CoreNLogText\obj\Debug\netcoreapp2.0\CoreNLogText.AssemblyInfo.cs
+D:\AKKI_DEV\RND\CoreNLogText\CoreNLogText\bin\Debug\netcoreapp2.0\CoreNLogText.deps.json
+D:\AKKI_DEV\RND\CoreNLogText\CoreNLogText\bin\Debug\netcoreapp2.0\CoreNLogText.runtimeconfig.json
+D:\AKKI_DEV\RND\CoreNLogText\CoreNLogText\bin\Debug\netcoreapp2.0\CoreNLogText.runtimeconfig.dev.json
+D:\AKKI_DEV\RND\CoreNLogText\CoreNLogText\bin\Debug\netcoreapp2.0\CoreNLogText.dll
+D:\AKKI_DEV\RND\CoreNLogText\CoreNLogText\bin\Debug\netcoreapp2.0\CoreNLogText.pdb
+D:\AKKI_DEV\RND\CoreNLogText\CoreNLogText\obj\Debug\netcoreapp2.0\CoreNLogText.dll
+D:\AKKI_DEV\RND\CoreNLogText\CoreNLogText\obj\Debug\netcoreapp2.0\CoreNLogText.pdb
